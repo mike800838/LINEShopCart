@@ -7,7 +7,7 @@ FlexArray={
   "type": "carousel",
   "contents": [
     {
-     {
+     
   "type": "bubble",
   "body": {
     "type": "box",
@@ -159,7 +159,7 @@ FlexArray={
       "separator": true
     }
   }
-}
+
     }
   ]
 }
