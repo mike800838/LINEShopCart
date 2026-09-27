@@ -6,7 +6,7 @@ FlexArray={
 		'contents': {
   "type": "carousel",
   "contents": [
-    {
+    
      {
   "type": "bubble",
   "body": {
