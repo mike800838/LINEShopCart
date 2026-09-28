@@ -173,8 +173,8 @@
 
 		if (liff.isApiAvailable('shareTargetPicker')) {
 			let FlexMessage = FlexArray["Details1"];
-			WriteLog(giLog_LEVEL_INFO,JSON.stringify(FlexMessage));
-			WriteLog(giLog_LEVEL_INFO,JSON.stringify(FlexMessage.contents));
+			WriteLog(giLog_LEVEL_INFO,JSON.stringify(FlexMessage[0]));
+			WriteLog(giLog_LEVEL_INFO,JSON.stringify(FlexMessage[0].contents));
 			let bubble = FlexMessage.contents.contents[0];
 			
 			let today = new Date();
