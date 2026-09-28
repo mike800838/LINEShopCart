@@ -29,7 +29,7 @@ FlexArray={
       },
       {
         "type": "text",
-        "text": "2026/09/28",
+        "text": "2026/01/01",
         "size": "xs",
         "color": "#aaaaaa",
         "wrap": true
@@ -75,7 +75,7 @@ FlexArray={
             "contents": [
               {
                 "type": "text",
-                "text": "ITEMS",
+                "text": "數量",
                 "size": "sm",
                 "color": "#555555"
               },
@@ -94,7 +94,7 @@ FlexArray={
             "contents": [
               {
                 "type": "text",
-                "text": "TOTAL",
+                "text": "總金額",
                 "size": "sm",
                 "color": "#555555"
               },
